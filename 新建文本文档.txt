@@ -1,0 +1,10 @@
+https://baizhiwen123.github.io/gouwu-app/dengluye.html 登陆页
+https://baizhiwen123.github.io/gouwu-app/dingdanye.html订单页
+https://baizhiwen123.github.io/gouwu-app/fenleiye.html分类页
+https://baizhiwen123.github.io/gouwu-app/gerenzhongxinye.html个人中心页
+https://baizhiwen123.github.io/gouwu-app/gouwucheye.html购物车
+https://baizhiwen123.github.io/gouwu-app/shezhiye.html设置页
+https://baizhiwen123.github.io/gouwu-app/shoucangye.html收藏页
+https://baizhiwen123.github.io/gouwu-app/shouye.html首页
+https://baizhiwen123.github.io/gouwu-app/xiangqingye.html详情页
+https://baizhiwen123.github.io/gouwu-app/xinzengshoucangdizhiye.html地址管理页
