@@ -1,0 +1,19 @@
+https://changxin1999.github.io/changxinapp/shouye.html  	主页
+
+https://changxin1999.github.io/changxinapp/fenl.html    	分类
+
+https://changxin1999.github.io/changxinapp/gouwuce.html 	购物车
+
+https://changxin1999.github.io/changxinapp/gerenzx.html         个人主页
+
+https://changxin1999.github.io/changxinapp/quanbudindan.html    全部订单
+
+https://changxin1999.github.io/changxinapp/shangpinxq.html      商品详情
+
+https://changxin1999.github.io/changxinapp/shoc.html            收藏
+
+https://changxin1999.github.io/changxinapp/diz.html             收货地址
+
+https://changxin1999.github.io/changxinapp/shezhi.html          设置
+
+https://changxin1999.github.io/changxinapp/dengl.html           登录
