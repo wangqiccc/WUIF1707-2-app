@@ -1,0 +1,12 @@
+APP
+https://15834363089.github.io/APP/shouye.html首页
+https://15834363089.github.io/APP/denglu.html登录
+https://15834363089.github.io/APP/shezhi.html设置
+https://15834363089.github.io/APP/wodedingdan.html我的订单
+https://15834363089.github.io/APP/wodeshoucang.html我的收藏
+https://15834363089.github.io/APP/shangpinxiangqing.html商品详情
+https://15834363089.github.io/APP/guanlishouhuodizhi.html关于收货地址
+https://15834363089.github.io/APP/gouwuche.html购物车
+https://15834363089.github.io/APP/gerenzhongxin.html个人中心
+https://15834363089.github.io/APP/dafenlei.html大的分类
+https://15834363089.github.io/APP/shangpingliebiao.html商品列表
