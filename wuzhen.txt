@@ -1,0 +1,14 @@
+https://elsa-zhen.github.io/app/home-page.html
+ https://elsa-zhen.github.io/app/detail-page.html
+ https://elsa-zhen.github.io/app/list-page.html
+ https://elsa-zhen.github.io/app/classify.html
+ https://elsa-zhen.github.io/app/personal.html
+ https://elsa-zhen.github.io/app/shopping.html
+ https://elsa-zhen.github.io/app/person.html
+ https://elsa-zhen.github.io/app/set.html
+ https://elsa-zhen.github.io/app/location.html
+ https://elsa-zhen.github.io/app/order.html
+https://elsa-zhen.github.io/app/collect.html
+https://elsa-zhen.github.io/app/shop.html
+
+
